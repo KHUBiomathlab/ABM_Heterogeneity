@@ -1,4 +1,4 @@
-Date	Cases
+Day	Daily_cases
 0	1
 1	1
 2	0
